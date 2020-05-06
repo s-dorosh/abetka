@@ -177,7 +177,7 @@ $('.bukvaya').click(() => {
 // 	}
 // })
 
-$('.bukvaya').ready(() => {
+$('.let-ya').ready(() => {
 	console.log('ready');
 	$('.section').css({ 'display': 'flex' });
 	$('.preloader').css({ 'display': 'none' })
