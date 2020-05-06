@@ -177,7 +177,7 @@ $('.bukvaya').click(() => {
 // 	}
 // })
 
-$('img').ready(() => {
+$('.letter-img').ready(() => {
 	console.log('ready');
 	$('.section').css({ 'display': 'flex' });
 	$('.preloader').css({ 'display': 'none' })
